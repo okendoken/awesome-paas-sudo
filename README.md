@@ -169,6 +169,7 @@ Browser-based or cloud-hosted development environments — often paired with one
 - [**Eclipse Che**](https://www.eclipse.org/che/) — Kubernetes-native cloud IDE.
 - [**CoCalc**](https://cocalc.com/) — Collaborative calculation and data science platform.
 - [**Encore**](https://encore.dev/) — Open-source TypeScript backend framework with automated infrastructure provisioning.
+- [**AppWizzy**](https://appwizzy.com/) — Hosted development VMs with runtime templates, browser workspaces, Codex Desktop, and SSH access.
 
 ## Regional / niche / language-specific PaaS
 
